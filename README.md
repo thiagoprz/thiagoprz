@@ -36,7 +36,7 @@ Brazilian developer, curious open source enthusiast, Raspberry/Arduino fanatic w
 ![React](./assets/react.png)
 
 
-#### Markup
+#### Markup & Stylesheet
 ![Saas](./assets/saas.png)
 ![CSS3](./assets/css3.png)
 ![Bootstrap](./assets/bootstrap.svg)
@@ -47,10 +47,12 @@ Brazilian developer, curious open source enthusiast, Raspberry/Arduino fanatic w
 ### Platforms
 ![Ubuntu](./assets/ubuntu.svg)
 ![Linux Mint](./assets/linux_mint.svg)
-![AWS](./assets/aws.svg)
 
 ![Android](./assets/android.svg)
 ![IOS](./assets/ios.svg)
+
+![AWS](./assets/docker.svg)
+![AWS](./assets/aws.svg)
 
 
 ### Databases
@@ -61,9 +63,13 @@ Brazilian developer, curious open source enthusiast, Raspberry/Arduino fanatic w
 
 
 
+### Support and Sponsors
+[![Ko-Fi](./assets/jetbrains.svg)](https://www.jetbrains.com/?from=LaravelCrudTools)
+[![Ko-Fi](./assets/kofi.svg)](https://ko-fi.com/thiagoprz)
 
 
-[![Back To Top](./assets/back-to-top.svg)](https://github.com/thiagoprz)
+
+[![Back To Top](./assets/back-to-top.svg)](https://github.com/thiagoprz#hello--im-thiago-przyczynski)
 
 
 
