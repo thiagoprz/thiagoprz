@@ -5,7 +5,7 @@ Brazilian developer, curious open source enthusiast, Raspberry/Arduino fanatic w
 
 [![My LinkedIn Profile](./assets/linkedin.svg)](https://www.linkedin.com/in/thiagoprz/)
 [![My Reddit Profile](./assets/reddit.svg)](https://www.reddit.com/user/thiagoprz/)
-[![Github Follow Me](https://img.shields.io/github/followers/thiagoprz.svg?style=social&label=Follow&maxAge=2592000)](https://www.linkedin.com/in/thiagoprz/)
+[![Github Follow Me](https://img.shields.io/github/followers/thiagoprz.svg?style=social&label=Follow&maxAge=2592000)](https://www.github.com/thiagoprz/)
 
 
 ### Github Stats
