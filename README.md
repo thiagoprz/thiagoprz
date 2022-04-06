@@ -25,6 +25,7 @@ Brazilian developer, curious open source enthusiast, Raspberry/Arduino fanatic w
 ![C Plus Plus](./assets/c_pp.svg)
 ![Kotlin](./assets/kotlin.svg)
 ![Java](./assets/java.svg)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 #### Frameworks
 ![Laravel](./assets/laravel.svg)
