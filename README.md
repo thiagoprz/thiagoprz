@@ -3,8 +3,11 @@
 
 Brazilian developer, curious open source enthusiast, Raspberry/Arduino fanatic with Backend engineering background as well as some Frontend know-how if I'm allowed to say it.
 
+I'm currently studying an MBA in Big Data to expand my knowledge over Data Analysis and BI.  
+
 [![My LinkedIn Profile](./assets/linkedin.svg)](https://www.linkedin.com/in/thiagoprz/)
 [![My Reddit Profile](./assets/reddit.svg)](https://www.reddit.com/user/thiagoprz/)
+[![](https://img.shields.io/badge/%20Unsplash-Profile-lightgrey?style=flat-square&logo=Unsplash)](https://unsplash.com/@thiagoprz)
 [![Github Follow Me](https://img.shields.io/github/followers/thiagoprz.svg?style=social&label=Follow&maxAge=2592000)](https://www.github.com/thiagoprz/)
 
 
