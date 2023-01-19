@@ -1,7 +1,8 @@
 ## Hello,  I'm Thiago Przyczynski
 
+![Traveler on my free time](./assets/panorama.jpg)
 
-Brazilian developer, curious open source enthusiast, Raspberry/Arduino fanatic with Backend engineering background as well as some Frontend know-how if I'm allowed to say it.
+Brazilian engineer, curious open source enthusiast, Raspberry/Arduino fanatic with Backend engineering background as well as some Frontend know-how if I'm allowed to say it.
 
 I'm currently studying an MBA in Big Data to expand my knowledge over Data Analysis and BI.  
 
