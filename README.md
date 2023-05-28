@@ -2,9 +2,10 @@
 
 ![Traveler on my free time](./assets/panorama.jpg)
 
-Brazilian engineer, curious open source enthusiast, Raspberry/Arduino fanatic with Backend engineering background as well as some Frontend know-how if I'm allowed to say it.
+Brazilian Backend Engineer at Linkfire, open source enthusiast with some hybrid mobile experience and traveler on my free time.
 
-I'm currently studying an MBA in Big Data to expand my knowledge over Data Analysis and BI.  
+- MBA at Big Data and Competitive Intelligence
+- Bachelor at Computer Science  
 
 [![My LinkedIn Profile](./assets/linkedin.svg)](https://www.linkedin.com/in/thiagoprz/)
 [![My Reddit Profile](./assets/reddit.svg)](https://www.reddit.com/user/thiagoprz/)
