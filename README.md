@@ -13,9 +13,7 @@ Brazilian Backend Engineer at Linkfire, open source enthusiast with some hybrid 
 [![Github Follow Me](https://img.shields.io/github/followers/thiagoprz.svg?style=social&label=Follow&maxAge=2592000)](https://www.github.com/thiagoprz/)
 
 
-### Github Stats
-![Top Languages](https://github-readme-stats.vercel.app/api?username=thiagoprz&theme=blue-green)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoprz&theme=blue-green)
+
 
 
 ### Languages
