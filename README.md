@@ -2,7 +2,7 @@
 
 ![Traveler on my free time](./assets/panorama.jpg)
 
-Brazilian Backend Engineer at Linkfire, open source enthusiast with some hybrid mobile experience and traveler on my free time.
+Brazilian Backend Engineer, open source enthusiast with some hybrid mobile experience.
 
 - MBA at Big Data and Competitive Intelligence
 - Bachelor at Computer Science  
