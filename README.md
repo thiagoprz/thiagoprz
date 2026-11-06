@@ -4,6 +4,7 @@
 
 Brazilian Backend Engineer, open source enthusiast with some hybrid mobile experience.
 
+- MBA at Artificial Intelligence
 - MBA at Big Data and Competitive Intelligence
 - Bachelor at Computer Science  
 
